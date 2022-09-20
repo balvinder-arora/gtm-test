@@ -1,10 +1,10 @@
 function App() {
   return (
     <div className="App">
-     <a href="/product">product</a>
-     <a href="/contactus">contact us</a>
-     <a href="/aboutus">about us</a>
-     <a href="/setting">setting</a>
+     <a href="/product">product</a><br/>
+     <a href="/contactus">contact us</a><br/>
+     <a href="/aboutus">about us</a><br/>
+     <a href="/setting">setting</a><br/>
     </div>
   );
 }
