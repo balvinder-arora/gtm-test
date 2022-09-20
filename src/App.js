@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
      <a href="/product">product</a>
-     <a href="/contactus">product</a>
-     <a href="/aboutus">product</a>
-     <a href="/setting">product</a>
+     <a href="/contactus">contact us</a>
+     <a href="/aboutus">about us</a>
+     <a href="/setting">setting</a>
     </div>
   );
 }
